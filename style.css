@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  background-color: #001000;
+}
+
+h1{
+  font-family: 'Comforter Brush', sans-serif;
+  text-align: center;
+  font-size: 6rem;
+  color: cyan;
+  text-shadow: 3px 3px 3px black;
+}
+
+h2{
+  font-family: 'Comforter Brush', sans-serif;
+  font-size: 3rem;
+  margin-bottom: 50px;
+  color: azure;
+}
+
+p{
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  margin: 200px;
+}
+
+p img{
+  width: 40px;
+}
+
+.dices-container{
+  width: 30%;
+  margin: auto;
+  min-width: 510px;
+}
+
+.dice-container{
+  text-align: center;
+  margin-top: 100px;
+  display: inline-block;
+  width: 49%;
+}
+
+.dice{
+  width: 250px;
+}
